@@ -1,8 +1,8 @@
 {
-  "name": "helioslauncher",
+  "name": "BlazermigLaucnher",
   "version": "2.2.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
+  "productName": "BlazermigLaucnher",
+  "description": "Le launcher du mig",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
